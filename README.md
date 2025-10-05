@@ -15,7 +15,7 @@ Die Ergebnisse sollen mit bestehenden Tools wie **Radon, ESLint und SonarQube** 
 ## Tools & Technologien
 - Python & JavaScript  
 - GPT-4 (OpenAI API)  
-- Radon, ESLint, SonarQube, rACD  
+- Radon, ESLint, SonarQube
 
 ## Zeitplan
 - Oktober: Recherche & Setup  
